@@ -34,8 +34,8 @@ Pursuing my Master's in Computer Science at Indian Institute of Technology Guwah
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AudrikSingh&show_icons=true&hide_border=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=808080" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudrikSingh&layout=compact&hide_border=true&theme=transparent&title_color=0e75b6&text_color=808080" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/AudrikSingh?style=for-the-badge&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AudrikSingh?style=for-the-badge&color=0e75b6" alt="Stars" />
 </p>
 
 <p align="center">
