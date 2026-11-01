@@ -18,8 +18,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/AudrikSingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="audrik singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xxxxx" height="30" width="40" /></a>
-<a href="mailto:your-audrik@iitg.ac.in" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Email Me" width="40" height="30" style="display: inline-block; vertical-align: middle; border: 0; outline: none; text-decoration: none;" />
+<a href="mailto:your-audrik@iitg.ac.in" target="_blank" style="text-decoration: none; display: inline-block; line-height: 0;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft.svg" alt="Outlook Email" width="40" height="30" style="display: block; border: 0; outline: none; margin: 0; padding: 0;" />
 </a>
 </p>
 
