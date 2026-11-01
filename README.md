@@ -1,36 +1,45 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">An aspiring Machine Learning Researcher from India</h3>
-<p align="center"><i>I am currently pursuing my Masters in Computer Science from [University Name]</i></p>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+# Hi 👋, I'm Audrik
 
----
+**Aspiring Machine Learning Researcher from India**
+Pursuing my Master's in Computer Science at Indian Institute of Technology Guwahati
 
-### 👨🏻‍💻 About Me
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 🔭 I’m currently working on **Sarcasm Prediction**
-- 🌱 I’m currently learning **Django**
-- 📫 How to reach me: **your-email@gmail.com**
-- ⚡ Fun fact: **I like to go on long walks**
+</div>
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
+### 👤 About Me
+
+- 🔭 Currently working on **Sarcasm Prediction**
+- 🌱 Currently learning **Django**
+- ⚡ Fun fact: I like to go on long walks
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/xxx/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/xxxx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft.svg" alt="Outlook Email" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,mysql,docker,git,tensorflow,sklearn,pandas,postman,figma" alt="Languages and tools" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=808080&bg_color=00000000" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=0e75b6&text_color=808080&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=USERNAME&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080&background=00000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
