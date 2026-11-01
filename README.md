@@ -26,7 +26,7 @@ Pursuing my Master's in Computer Science at Indian Institute of Technology Guwah
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,mysql,docker,git,tensorflow,sklearn,postman,figma" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,mysql,docker,git,tensorflow,sklearn,pandas,postman,figma" alt="Languages and tools" />
 </p>
 
 ---
