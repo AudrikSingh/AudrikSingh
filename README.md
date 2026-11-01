@@ -3,11 +3,11 @@
 # Hi 👋, I'm Audrik
 
 **Aspiring Machine Learning Researcher from India**
-Pursuing my Master's in Computer Science at Indian Institute of Technology Guwahati
+**Pursuing my Master's in Computer Science at Indian Institute of Technology Guwahati**
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/audriksingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:audriksingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -32,14 +32,14 @@ Pursuing my Master's in Computer Science at Indian Institute of Technology Guwah
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=808080&bg_color=00000000" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=0e75b6&text_color=808080&bg_color=00000000" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AudrikSingh&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=808080&bg_color=00000000" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudrikSingh&layout=compact&hide_border=true&title_color=0e75b6&text_color=808080&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AudrikSingh&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080&background=00000000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AudrikSingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
